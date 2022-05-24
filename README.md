@@ -1,1 +1,1 @@
-# my_yolov5
+# Example of working with yolov5
